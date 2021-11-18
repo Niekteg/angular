@@ -60,7 +60,6 @@ Get started with Angular, learn the fundamentals and explore advanced topics on 
 
 - Install [Node.js] which includes [Node Package Manager][npm]
 
-### Setting Up a Project
 
 Install the Angular CLI globally:
 
