@@ -76,11 +76,6 @@ Join the conversation and help the community.
 
 **Love Angular? Give our repo a star :star: :arrow_up:.**
 
-[contributing]: CONTRIBUTING.md
-[quickstart]: https://angular.io/start
-[changelog]: CHANGELOG.md
-[ng]: https://angular.io
-[documentation]: https://angular.io/docs
 [angularmaterial]: https://material.angular.io/
 [cli]: https://cli.angular.io/
 [architecture]: https://angular.io/guide/architecture
